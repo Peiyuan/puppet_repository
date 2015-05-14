@@ -10,7 +10,7 @@ mod "zack/r10k"
 mod "gentoo/portage"
 
 mod "users",
-	:git => "git://github.com/cvquesty/users.git",
+	:git => "git://github.com/Peiyuan/users.git",
 	:ref => 'development'
 
 mod 'cron',
