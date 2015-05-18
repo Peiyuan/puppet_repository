@@ -16,3 +16,7 @@ mod "users",
 mod 'cron',
         :git => "git://github.com/Peiyuan/cron.git",
         :ref => 'development'
+
+mod 'foxjava',
+	:git => "https://github.com/Peiyuan/foxjava.git",
+	:ref => 'development'
