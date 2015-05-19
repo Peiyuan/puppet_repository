@@ -18,5 +18,5 @@ mod 'cron',
         :ref => 'development'
 
 mod 'foxjava',
-	:git => "https://github.com/Peiyuan/foxjava.git",
+	:git => "git://github.com/Peiyuan/foxjava.git",
 	:ref => 'development'
